@@ -3,7 +3,22 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b1d7e7,100:a5cfbf&height=180&text=Hi,%20I'm%20Sumin&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 바로가기 </h2> <br> 
+
+  표켓몬 (
+  <a href="https://github.com/sky121016/pyokemon-service">BE</a> ·
+  <a href="https://github.com/sky121016/pyokemon-web">FE</a> 
+  )
+
+     
+<a href="https://github.com/sky121016/Solepli-frontend">쏠플리</a> ·
+     <a href="https://github.com/sky121016/LGCNS-mp1-BE">Csrrr</a> ·
+<a href="https://github.com/sky121016/PickTour-app">픽투어</a> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Portfolio </h2> <br> 
+    <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/c6102ba4-2627-41e0-a307-862be4f4addd" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/98494653-1b6e-4179-9e87-0c8c1b2066bd" />
+    
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
